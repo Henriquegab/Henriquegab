@@ -1,7 +1,7 @@
 ### Hi there, i'm Henrique Gabriel 👋
 
 - 🔭 I’m currently working on Montes Claros State University
-- 🌱 I’m currently learning Laravel 8
+- 🌱 I’m currently learning Laravel and Node.js
 - 😄 Pronouns: He/Him
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="Rik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rik-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rik-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rik-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rik-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
