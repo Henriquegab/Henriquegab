@@ -1,7 +1,7 @@
 ### Hi there, i'm Henrique Gabriel 👋
 
 - 🔭 I’m currently working on Montes Claros State University
-- 🌱 I’m currently learning Laravel and Node.js
+- 🌱 I’m currently learning Laravel 9
 - 😄 Pronouns: He/Him
 
 <div align="center">
