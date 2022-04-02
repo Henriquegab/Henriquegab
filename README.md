@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React
 - 💻 Tecnologies that I'm using: Laravel, React with Typescript, next.js.
 - 😄 Pronouns: He/Him
+- 😀 Advanced level of english (C1)
 
 <div align="center">
   <a href="https://github.com/Henriquegab">
