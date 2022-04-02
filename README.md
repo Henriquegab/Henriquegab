@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Montes Claros State University
 - 🌱 I’m currently learning React
-- 💻 Tecnologies that i'm using: Laravel, React with Typescript, next.js.
+- 💻 Tecnologies that I'm using: Laravel, React with Typescript, next.js.
 - 😄 Pronouns: He/Him
 
 <div align="center">
